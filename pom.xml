@@ -58,6 +58,12 @@
 		    <version>2.3.0</version>
 		 </dependency>
 
+		<dependency>
+			<groupId>io.logz.logback</groupId>
+			<artifactId>logzio-logback-appender</artifactId>
+			<version>1.0.18</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
